@@ -7,12 +7,9 @@
 <title>WebAppSample</title>
 </head>
 <body>
-	<div>WebApp Main</div>
+	<div>error</div>
 	<div>
-		<a href="logout">logout</a>
-	</div>
-	<div>
-		<a href="users">login users</a>
+		<a href="login">go login</a>
 	</div>
 </body>
 </html>

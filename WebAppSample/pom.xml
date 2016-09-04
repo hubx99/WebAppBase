@@ -38,5 +38,10 @@
 			<artifactId>mariadb-java-client</artifactId>
 			<version>1.5.2</version>
 		</dependency>
+		<dependency>
+			<groupId>org.mybatis</groupId>
+			<artifactId>mybatis</artifactId>
+			<version>3.4.1</version>
+		</dependency>
 	</dependencies>
 </project>
